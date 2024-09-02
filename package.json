@@ -1,0 +1,21 @@
+{
+    "name": "hello-world",
+    "version": "1.0.0",
+    "description": "A simple Express.js server to run hello-world",
+    "author": "k0baya (https://github.com/k0baya)",
+    "main": "app.js",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+        "basic-auth": "^2.0.1",
+        "express": "^4.19.2",
+        "http-proxy": "^1.18.1",
+        "ws": "^8.18.0"
+    },
+    "keywords": [
+      "node"
+    ]
+  }
