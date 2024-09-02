@@ -8,4 +8,4 @@ A simple JavaScript script that implements the Vless-WebSocket protocol.
 |WEB_USERNAME|admin||
 |WEB_PASSWORD|password||
 
-> Thanks to [qwer-search](https://github.com/qwer-search/serv00-vless)
+> Thanks to [gaboolic](https://github.com/gaboolic/nodejs-proxy)
